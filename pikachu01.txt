@@ -1,0 +1,5 @@
+25 33
+Growl 25 5 100
+Thunder 5 25 70
+Slam 5 30 40
+Punch 10 5 90

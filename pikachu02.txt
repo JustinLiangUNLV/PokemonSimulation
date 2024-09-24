@@ -1,0 +1,5 @@
+50 22
+Shock 10 10 100
+Dig 5 50 30
+ThunderBolt 10 2 100
+Punch 10 5 95
